@@ -23,3 +23,8 @@ Welcome to our GitHub organization! Here are some useful links:
 - https://lavozdeanza.com/features/2023/11/03/electricity-calculator-design-shocks-de-anza-hackathon/
 - https://lavozdeanza.com/features/2024/06/07/de-anza-hackathon-returns-for-spring-and-comes-with-a-twist/
 - https://lavozdeanza.com/video/2024/10/31/student-hackers-compete-at-da-hacks-3-0-hack-a-thon-for-over-7500-in-prizes/
+
+
+# Photo Gallary
+
+DAHacks 2.5 https://1drv.ms/f/c/B431AACACBAF5BA3/AqNbr8vKqjEggLSsVQAAAAA?e=Kluvf6
