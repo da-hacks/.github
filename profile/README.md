@@ -32,4 +32,4 @@ DAHacks 2.5 https://1drv.ms/f/c/B431AACACBAF5BA3/AqNbr8vKqjEggLSsVQAAAAA?e=Kluvf
 # Previous websites: 
 - **DAHACKS V2.5:**  https://da-hacks2-5.vercel.app/
 - **DAHACKS V3.0 interest**  https://da-hacks-spring2024.vercel.app/
-- **DAHACKS V3.0 **  https://da-hacks-github-io.vercel.app/
+- **DAHACKS V3.0**  https://da-hacks-github-io.vercel.app/
