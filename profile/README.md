@@ -25,6 +25,6 @@ Welcome to our GitHub organization! Here are some useful links:
 - https://lavozdeanza.com/video/2024/10/31/student-hackers-compete-at-da-hacks-3-0-hack-a-thon-for-over-7500-in-prizes/
 
 
-# Photo Gallary
+# Photo Gallery
 
 DAHacks 2.5 https://1drv.ms/f/c/B431AACACBAF5BA3/AqNbr8vKqjEggLSsVQAAAAA?e=Kluvf6
