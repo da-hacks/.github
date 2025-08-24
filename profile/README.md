@@ -5,8 +5,7 @@ Welcome to our GitHub organization! Here are some useful links:
 ### 🔗 Internal Resources
 - **Portal:** [Hackathon Dashboard](https://github.com/da-hacks/hackathon-dashboard)
 - **Website:** [Da Hacks 3.5](https://github.com/da-hacks/da-hacks-3.5-website)
-- **Team Meet:** [Hackathon Team Creator](https://github.com/da-hacks/hackathon-team-creator)
-- **Judging:** [Hackathon Judging](https://github.com/da-hacks/hackathon-judging)
+- **Judging:** [Hackathon Judging](https://github.com/da-hacks/da-hacks-4.0-judging-app)
 
 ### 🌎 Public Resources
 - **Main Website:** [deanzahacks.com](https://deanzahacks.com/)
@@ -18,6 +17,7 @@ Welcome to our GitHub organization! Here are some useful links:
 - **DAHACKS V2.0 Devpost:** [dahacks25.devpost.com](https://de-anza-hacks-2023.devpost.com/project-gallery)
 - **DAHACKS V2.5 Devpost:** [dahacks25.devpost.com](https://dahacks25.devpost.com/project-gallery)
 - **DAHACKS V3.0 Devpost:** [dahacks3.devpost.com](https://dahacks3.devpost.com/project-gallery)
+- **DAHACKS V3.5 Devpost:** [dahacks3.devpost.com](https://dahacks3-5.devpost.com/project-gallery)
 
 # News & Press
 - https://lavozdeanza.com/features/2023/11/03/electricity-calculator-design-shocks-de-anza-hackathon/
